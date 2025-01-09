@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "d649adb27cfa4d4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f7463074bc26a33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec0efefef24c4fab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0258cf9dea697ba4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cd2b0017e5f5e7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ae23c9449b6d6a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e605812157a26e2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ffa28a8c18e17453",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2bdcb8b4f36fb97",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f965958df95945c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2533ac2ab3b2cabf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CodeForces/1300 - 1399/92A - Chips.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 92A - Chips"
+            }
+          },
+          {
+            "id": "555e83268d639f9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CodeForces/1300 - 1399/92A - Chips.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 92A - Chips"
+            }
+          },
+          {
+            "id": "6270fe9ae758c668",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dfdc95aa08fa9fac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CodeForces/1300 - 1399/92A - Chips.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 92A - Chips"
+            }
+          },
+          {
+            "id": "def001df17d6c61e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ec0efefef24c4fab",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "README.md",
+    "CodeForces/1300 - 1399/92A - Chips.md",
+    "CodeForces/1300 - 1399/266B - Queue at the School.md",
+    "CodeForces/1300 - 1399",
+    "CodeForces"
+  ]
+}

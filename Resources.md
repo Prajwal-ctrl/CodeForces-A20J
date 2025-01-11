@@ -1,1 +1,3 @@
-	[26 curted problems solution](https://drive.google.com/drive/folders/1ZV5yGUpHWvihbsGJC2yFPzNH5mCv778U)
+
+
+[https://drive.google.com/drive/folders/1ZV5yGUpHWvihbsGJC2yFPzNH5mCv778U](Codeforces 26 curated l)

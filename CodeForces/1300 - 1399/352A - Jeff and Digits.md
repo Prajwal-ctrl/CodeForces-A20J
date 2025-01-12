@@ -1,3 +1,7 @@
+---
+link: https://www.notion.so/352A-Jeff-and-Digits-1794a0536aab81dc9357f16fd0e4c2da
+notionID: 1794a053-6aab-81dc-9357-f16fd0e4c2da
+---
 ```
 #include <bits/stdc++.h>
 

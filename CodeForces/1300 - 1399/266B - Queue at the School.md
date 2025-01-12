@@ -1,3 +1,7 @@
+---
+link: https://www.notion.so/266B-Queue-at-the-School-1794a0536aab8104b6aef08397a4e6df
+notionID: 1794a053-6aab-8104-b6ae-f08397a4e6df
+---
 ```
 #include <bits/stdc++.h>
 

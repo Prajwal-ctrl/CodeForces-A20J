@@ -1,3 +1,7 @@
+---
+link: https://www.notion.so/230A-Dragons-1794a0536aab81949176da0c53633a3e
+notionID: 1794a053-6aab-8194-9176-da0c53633a3e
+---
 ```
 #include <bits/stdc++.h>
 

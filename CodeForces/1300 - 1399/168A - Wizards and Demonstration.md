@@ -1,6 +1,6 @@
 ---
-link: https://www.notion.so/168A-Wizards-and-Demonstration-1794a0536aab81f49722d9fb49f488a0
-notionID: 1794a053-6aab-81f4-9722-d9fb49f488a0
+link: https://www.notion.so/168A-Wizards-and-Demonstration-1794a0536aab8109996ecd9153b8e4e3
+notionID: 1794a053-6aab-8109-996e-cd9153b8e4e3
 ---
 ```
 #include <bits/stdc++.h>

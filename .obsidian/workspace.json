@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "118 A.md",
+                "file": "CodeForces/1300 - 1399/118 A. String Task.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "118 A"
+              "title": "118 A. String Task"
             }
           }
         ],
@@ -203,10 +203,10 @@
       "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "e4af77f30ea42deb",
+  "active": "1ae23c9449b6d6a0",
   "lastOpenFiles": [
     "CodeForces/1300 - 1399/130 A. Dubstep.md",
-    "118 A.md",
+    "CodeForces/1300 - 1399/118 A. String Task.md",
     "Resources.md",
     "CodeForces/1300 - 1399/Graph view 1300 - 1400.md",
     "2025-01-12.md",
